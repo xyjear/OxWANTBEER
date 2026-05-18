@@ -55,8 +55,7 @@
     </a>
     <!-- Telegram -->
     <a href="https://t.me/OxWANTBEER" target="_blank">
-        <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-000000?style=for-the-badge&
-        logo=telegram&logoColor=white">
+        <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-000000?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <!-- Email -->
     <a href="mailto:reallwantbeer@gmail.com" target="_blank">
