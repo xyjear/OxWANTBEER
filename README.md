@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/OxWANTBEER/OxWANTBEER/main/assets/img_1.gif" alt="Header" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm OxWANTBEER</h1>
+<h1 align="center">Hi, I'm xyjear</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
 <p align="center">
@@ -16,6 +16,7 @@
 </p>
 
 <h2 align="center">Languages</h2>
+<br>
 <p align="center">
     <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
@@ -24,6 +25,7 @@
 </p>
 
 <h2 align="center">Platforms & Tools</h2>
+<br>
 <p align="center">
     <img alt="STM32" src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
     <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
@@ -37,6 +39,7 @@
 </p>
 
 <h2 align="center">Contact</h2>
+<br>
 <p align="center">
     <a href="https://github.com/OxWANTBEER" style="text-decoration: none;">
         <img alt="GitHub" src="https://img.shields.io/badge/OxWANTBEER-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -48,7 +51,6 @@
         <img alt="Email" src="https://img.shields.io/badge/reallwantbeer@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
-
 <br>
 <p align="center">
     <samp>───── ⋆ ★ ⋆ ─────</samp>
