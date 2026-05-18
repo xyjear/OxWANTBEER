@@ -1,71 +1,57 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/OxWANTBEER/OxWANTBEER/main/assets/img_1.gif" alt="Header">
+    <img src="https://raw.githubusercontent.com/OxWANTBEER/OxWANTBEER/main/assets/img_1.gif" alt="Header" width="100%">
 </p>
 
-<h3 align="center">
-    <samp>&gt; Hey There!, I am OxWANTBEER</samp>
-</h3>
-<br>
+<h1 align="center">Hi, I'm OxWANTBEER</h1>
+<h3 align="center">Embedded Software Engineer</h3>
 
 <p align="center">
     <samp>
-        ★ I'm an embedded software engineer. I write firmware that runs on chips with less memory than your browser tab. ★
+        I build firmware for microcontrollers — from bare-metal drivers to complete devices.
         <br>
-        ★ My interrupts are handled before they fire, and my main loop finishes before it begins. ★
+        Focused on STM32, ESP32, and low-level programming in C.
         <br>
-        ★ Btw, i use Arch :) ★
+        Based in Russia, working on projects that bridge hardware and software.
     </samp>
-    <br>
-    <br>
-    <!-- C -->
+</p>
+
+<h2 align="center">Languages</h2>
+<p align="center">
     <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
-    <!-- JavaScript -->
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-    <!-- HTML -->
     <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
-    <!-- CSS -->
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white">
-    <br>
-    <br>
-    <!-- STM32 -->
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+<h2 align="center">Platforms & Tools</h2>
+<p align="center">
     <img alt="STM32" src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-    <!-- ESP32 -->
     <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
-    <!-- ESP8266 -->
     <img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white">
-    <!-- Arduino -->
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white">
-    <br>
-    <br>
-    <!-- VS Code -->
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <!-- PlatformIO -->
+    <br><br>
+    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white">
-    <!-- Git -->
     <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-    <!-- Linux -->
     <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </p>
-<br>
-<br>
+
+<h2 align="center">Contact</h2>
 <p align="center">
-    <!-- GitHub -->
-    <a href="https://github.com/OxWANTBEER" target="_blank">
+    <a href="https://github.com/OxWANTBEER" style="text-decoration: none;">
         <img alt="GitHub" src="https://img.shields.io/badge/OxWANTBEER-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <!-- Telegram -->
-    <a href="https://t.me/OxWANTBEER" target="_blank">
+    <a href="https://t.me/OxWANTBEER" style="text-decoration: none;">
         <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-000000?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-    <!-- Email -->
-    <a href="mailto:reallwantbeer@gmail.com" target="_blank">
+    <a href="mailto:reallwantbeer@gmail.com" style="text-decoration: none;">
         <img alt="Email" src="https://img.shields.io/badge/reallwantbeer@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
+
 <br>
 <p align="center">
-    ───── ⋆ ★ ⋆ ─────
+    <samp>───── ⋆ ★ ⋆ ─────</samp>
     <br>
     <samp>That's all folks. Now go build something cool.</samp>
 </p>
-    
