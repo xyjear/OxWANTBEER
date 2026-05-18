@@ -1,4 +1,4 @@
-[![Header](https://github.com/OxWANTBEER/OxWANTBEER/blob/main/assets/img_1.gif)]
+[![Header](https://github.com/OxWANTBEER/OxWANTBEER/blob/main/assets/img_1.gif)]()
 
 # 👋 Hi, I'm WANTBEER!
 
@@ -16,33 +16,23 @@ I build firmware from the metal up — custom drivers, graphics, and signal proc
 - **Protocols:** NEC (IR), custom
 - **Tools:** PlatformIO, VS Code, CubeMX, ST-Link
 
-![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>)
+## 🛠️ Tech Stack
 
----
+[![C](https://img.shields.io/badge/C-A8454F?style=for-the-badge&logo=c&logoColor=white)]()
+[![STM32](https://img.shields.io/badge/STM32-D9B38E?style=for-the-badge&logo=stmicroelectronics&logoColor=white)]()
+[![ESP32](https://img.shields.io/badge/ESP32-B38258?style=for-the-badge&logo=espressif&logoColor=white)]()
+[![ESP8266](https://img.shields.io/badge/ESP8266-A8454F?style=for-the-badge&logo=espressif&logoColor=white)]()
+[![Arduino](https://img.shields.io/badge/Arduino-D9B38E?style=for-the-badge&logo=arduino&logoColor=white)]()
 
-## 📂 Featured Projects
-
-### [IR_Tool](https://github.com/OxWANTBEER/IR_Tool)
-Universal IR analyzer & transmitter for STM32.
-- Captures, decodes, stores and replays IR signals
-- OLED display with custom UI and menu system
-- CSV-based code storage on SD card
-- Written in C on pure LL (no HAL)
-
-### [stm32-oled-ll](https://github.com/OxWANTBEER/stm32-oled-ll)
-Lightweight SSD1306 OLED library for STM32.
-- Pure LL implementation — no HAL dependencies
-- Pixel, line, rectangle and text rendering
-- Custom 7x7 icon font support
+[![VS Code](https://img.shields.io/badge/VS_Code-B38258?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-A8454F?style=for-the-badge&logo=platformio&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-D9B38E?style=for-the-badge&logo=git&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-B38258?style=for-the-badge&logo=linux&logoColor=white)]()
 
 ---
 
 ## 📫 Contact
 
-- Telegram: [@your_telegram]
-- Email: [your.email@example.com]
-- Habr: [your_habr_profile]
-
----
-
-> *"Debugging is like being a detective in a crime movie where you are also the murderer."*
+[![GitHub](https://img.shields.io/badge/OxWANTBEER-A8454F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OxWANTBEER)
+[![Telegram](https://img.shields.io/badge/OxWANTBEER-D9B38E?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_nick)
+[![Email](https://img.shields.io/badge/your@email.com-B38258?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
