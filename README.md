@@ -15,6 +15,8 @@
         <br>
         ★ btw, I use Arch :) ★
     </samp>
+    <br>
+    <br>
     <!-- C -->
     <img alt="C" src="https://img.shields.io/badge/C-D9B38E?style=for-the-badge&logo=c&logoColor=white">
     <!-- JavaScript -->
@@ -44,8 +46,9 @@
     <!-- Linux -->
     <img alt="Linux" src="https://img.shields.io/badge/Linux-B38258?style=for-the-badge&logo=linux&logoColor=black">
 </p>
+<br>
+<br>
 <p align="center">
-    <br>
     <img alt="OxWANTBEER's GitHub Stats"
              src="https://github-readme-stats.vercel.app/api?username=OxWANTBEER&show_icons=true&theme=radical">
     <br>
@@ -64,14 +67,12 @@
     </a>
 </p>
 <br>
-<samp>
-    <p align="center">
-        <span style="color: #D9B38E;">─────</span> 
-        <span style="color: #A8454F;">⋆</span> 
-        <span style="color: #B38258;">★</span> 
-        <span style="color: #A8454F;">⋆</span> 
-        <span style="color: #D9B38E;">─────</span>
-        <br>
-        <span style="color: #B38258;">"That's all folks. Now go build something cool. 🚀"</span>
+<p align="center">
+    <span style="color: #D9B38E;">─────</span> 
+    <span style="color: #A8454F;">⋆</span> 
+    <span style="color: #B38258;">★</span> 
+    <span style="color: #A8454F;">⋆</span> 
+    <span style="color: #D9B38E;">─────</span>
+    <br>
+    <span style="color: #B38258;">That's all folks. Now go build something cool.</span>
     </p>
-</samp>
