@@ -13,7 +13,7 @@
         <br>
         ★ My interrupts are handled before they fire, and my main loop finishes before it begins. ★
         <br>
-        ★ btw, I use Arch :) ★
+        ★ Btw, i use Arch :) ★
     </samp>
     <br>
     <br>
@@ -38,7 +38,7 @@
     <br>
     <br>
     <!-- VS Code -->
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <!-- PlatformIO -->
     <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white">
     <!-- Git -->
@@ -49,17 +49,14 @@
 <br>
 <br>
 <p align="center">
-    <img alt="OxWANTBEER's GitHub Stats"
-         src="https://github-readme-stats.vercel.app/api?username=OxWANTBEER&show_icons=true&theme=radical">
-    <br>
-    <p>Find me on</p>
     <!-- GitHub -->
     <a href="https://github.com/OxWANTBEER" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/OxWANTBEER-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <!-- Telegram -->
     <a href="https://t.me/OxWANTBEER" target="_blank">
-        <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-000000?style=for-the-badge&logo=telegram&logoColor=white">
+        <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-000000?style=for-the-badge&
+        logo=telegram&logoColor=white">
     </a>
     <!-- Email -->
     <a href="mailto:reallwantbeer@gmail.com" target="_blank">
@@ -70,5 +67,6 @@
 <p align="center">
     ───── ⋆ ★ ⋆ ─────
     <br>
-    "That's all folks. Now go build something cool."
+    <samp>That's all folks. Now go build something cool.</samp>
 </p>
+    
