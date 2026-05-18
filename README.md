@@ -24,7 +24,7 @@
     <!-- HTML -->
     <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
     <!-- CSS -->
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white">
     <br>
     <br>
     <!-- STM32 -->
