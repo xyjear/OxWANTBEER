@@ -1,16 +1,29 @@
-![Header](https://github.com/OxWANTBEER/OxWANTBEER/blob/main/assets/img_1.gif)
+<p align="center">
+    <img src="https://github.com/OxWANTBEER/OxWANTBEER/blob/main/assets/img_1.gif" alt="Header">
+</p>
 
-# 👋 Hi, I'm WANTBEER!
+<h1 align="center">👋 Hi, I'm WANTBEER!</h1>
 
-**Embedded Systems Engineer** | STM32 & ESP32 | Bare-Metal & RTOS
+<p align="center">
+    <samp>
+        「 I'm passionate about embedded systems and low-level programming 」
+        <br>
+        「 I dive deep into the metal, building firmware that pushes microcontrollers to their limits 」
+        <br>
+        「 I use Arch btw :) 」
+        <br>
+        <br>
+    </samp>
+</p>
 
-I build firmware from the metal up — custom drivers, graphics, and signal processing, optimized for resource-constrained microcontrollers.
-
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
     <!-- C -->
-    <img alt="C" src="https://img.shields.io/badge/C-A8454F?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-D9B38E?style=for-the-badge&logo=c&logoColor=white">
+    <!-- JavaScript -->
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-A8454F?style=for-the-badge&logo=c&logoColor=white">
+    <br>
     <!-- STM32 -->
     <img alt="STM32" src="https://img.shields.io/badge/STM32-D9B38E?style=for-the-badge&logo=stmicroelectronics&logoColor=black">
     <!-- ESP32 -->
@@ -30,8 +43,19 @@ I build firmware from the metal up — custom drivers, graphics, and signal proc
     <img alt="Linux" src="https://img.shields.io/badge/Linux-B38258?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-## 📫 Contact
+<h2 align="center">📫 Contact</h2>
 
-[![GitHub](https://img.shields.io/badge/OxWANTBEER-A8454F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OxWANTBEER)
-[![Telegram](https://img.shields.io/badge/@your_nick-D9B38E?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/your_nick)
-[![Email](https://img.shields.io/badge/your@email.com-B38258?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your@email.com)
+<p align="center">
+    <!-- GitHub -->
+    <a href="https://github.com/OxWANTBEER" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/OxWANTBEER-A8454F?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <!-- Telegram -->
+    <a href="https://t.me/OxWANTBEER" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-D9B38E?style=for-the-badge&logo=telegram&logoColor=black">
+    </a>
+    <!-- Email -->
+    <a href="mailto:reallwantbeer@gmail.com" target="_blank">
+        <img alt="Email" src="https://img.shields.io/badge/reallwantbeer@gmail.com-B38258?style=for-the-badge&logo=gmail&logoColor=black">
+    </a>
+</p>
