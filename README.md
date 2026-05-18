@@ -38,7 +38,7 @@
     <br>
     <br>
     <!-- VS Code -->
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=vscode&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <!-- PlatformIO -->
     <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white">
     <!-- Git -->
