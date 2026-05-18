@@ -53,5 +53,5 @@
 <p align="center">
     <samp>───── ⋆ ★ ⋆ ─────</samp>
     <br>
-    <samp>That's all folks. Now go build something cool.</samp>
+    <samp>Thanks for stopping by. May your code compile on the first try.</samp>
 </p>
