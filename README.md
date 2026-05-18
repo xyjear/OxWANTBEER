@@ -18,61 +18,57 @@
     <br>
     <br>
     <!-- C -->
-    <img alt="C" src="https://img.shields.io/badge/C-D9B38E?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
     <!-- JavaScript -->
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-A8454F?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
     <!-- HTML -->
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-B38258?style=for-the-badge&logo=html5&logoColor=black">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
     <!-- CSS -->
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-D9B38E?style=for-the-badge&logo=css3&logoColor=black">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white">
     <br>
     <br>
     <!-- STM32 -->
-    <img alt="STM32" src="https://img.shields.io/badge/STM32-D9B38E?style=for-the-badge&logo=stmicroelectronics&logoColor=black">
+    <img alt="STM32" src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
     <!-- ESP32 -->
-    <img alt="ESP32" src="https://img.shields.io/badge/ESP32-B38258?style=for-the-badge&logo=espressif&logoColor=black">
+    <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
     <!-- ESP8266 -->
-    <img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-A8454F?style=for-the-badge&logo=espressif&logoColor=white">
+    <img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white">
     <!-- Arduino -->
-    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-D9B38E?style=for-the-badge&logo=arduino&logoColor=black">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white">
     <br>
     <br>
     <!-- VS Code -->
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-B38258?style=for-the-badge&logo=vscode&logoColor=black">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=vscode&logoColor=white">
     <!-- PlatformIO -->
-    <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-A8454F?style=for-the-badge&logo=platformio&logoColor=white">
+    <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white">
     <!-- Git -->
-    <img alt="Git" src="https://img.shields.io/badge/Git-D9B38E?style=for-the-badge&logo=git&logoColor=black">
+    <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
     <!-- Linux -->
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-B38258?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 <br>
 <br>
 <p align="center">
     <img alt="OxWANTBEER's GitHub Stats"
-             src="https://github-readme-stats.vercel.app/api?username=OxWANTBEER&show_icons=true&theme=radical">
+         src="https://github-readme-stats.vercel.app/api?username=OxWANTBEER&show_icons=true&theme=radical">
     <br>
     <p>Find me on</p>
     <!-- GitHub -->
     <a href="https://github.com/OxWANTBEER" target="_blank">
-            <img alt="GitHub" src="https://img.shields.io/badge/OxWANTBEER-A8454F?style=for-the-badge&logo=github&logoColor=white">
+        <img alt="GitHub" src="https://img.shields.io/badge/OxWANTBEER-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <!-- Telegram -->
     <a href="https://t.me/OxWANTBEER" target="_blank">
-            <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-D9B38E?style=for-the-badge&logo=telegram&logoColor=black">
+        <img alt="Telegram" src="https://img.shields.io/badge/@OxWANTBEER-000000?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <!-- Email -->
     <a href="mailto:reallwantbeer@gmail.com" target="_blank">
-        <img alt="Email" src="https://img.shields.io/badge/reallwantbeer@gmail.com-B38258?style=for-the-badge&logo=gmail&logoColor=black">
+        <img alt="Email" src="https://img.shields.io/badge/reallwantbeer@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 <br>
 <p align="center">
-    <span style="color: #D9B38E;">─────</span> 
-    <span style="color: #A8454F;">⋆</span> 
-    <span style="color: #B38258;">★</span> 
-    <span style="color: #A8454F;">⋆</span> 
-    <span style="color: #D9B38E;">─────</span>
+    ───── ⋆ ★ ⋆ ─────
     <br>
-    <span style="color: #B38258;">That's all folks. Now go build something cool.</span>
-    </p>
+    "That's all folks. Now go build something cool."
+</p>
