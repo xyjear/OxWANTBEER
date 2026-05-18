@@ -1,3 +1,5 @@
+[![Header](https://github.com/OxWANTBEER/OxWANTBEER/blob/main/assets/img_1.gif)]
+
 # 👋 Hi, I'm WANTBEER!
 
 **Embedded Systems Engineer** | STM32 & ESP32 | Bare-Metal & RTOS
@@ -13,6 +15,8 @@ I build firmware from the metal up — custom drivers, graphics, and signal proc
 - **Interfaces:** I2C, SPI, UART, USB
 - **Protocols:** NEC (IR), custom
 - **Tools:** PlatformIO, VS Code, CubeMX, ST-Link
+
+![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>)
 
 ---
 
