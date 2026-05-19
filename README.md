@@ -15,7 +15,7 @@
     </samp>
 </p>
 
-<h2 align="center">Languages</h2>
+<h3 align="center">Languages</h3>
 <br>
 <p align="center">
     <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
@@ -24,7 +24,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<h2 align="center">Platforms & Tools</h2>
+<h3 align="center">Platforms & Tools</h3>
 <br>
 <p align="center">
     <img alt="STM32" src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
@@ -38,7 +38,7 @@
     <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
-<h2 align="center">Contact</h2>
+<h3 align="center">Contact</h3>
 <br>
 <p align="center">
     <a href="https://github.com/OxWANTBEER" style="text-decoration: none;">
