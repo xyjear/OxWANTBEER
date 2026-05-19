@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
     <img src="https://raw.githubusercontent.com/OxWANTBEER/OxWANTBEER/main/assets/img_1.gif" alt="Header" width="100%">
 </p>
 
