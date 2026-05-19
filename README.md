@@ -1,11 +1,11 @@
-<p align="start">
+<p align="left">
     <img src="https://raw.githubusercontent.com/OxWANTBEER/OxWANTBEER/main/assets/img_1.gif" alt="Header" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm xyjear</h1>
-<h3 align="center">Embedded Software Engineer</h3>
+<h1 align="left">Hi, I'm xyjear</h1>
+<h3 align="left">Embedded Software Engineer</h3>
 
-<p align="center">
+<p align="left">
     <samp>
         I build firmware for microcontrollers — from bare-metal drivers to complete devices.
         <br>
@@ -15,18 +15,18 @@
     </samp>
 </p>
 
-<h3 align="center">Languages</h3>
+<h3 align="left">Languages</h3>
 <br>
-<p align="center">
+<p align="left">
     <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<h3 align="center">Platforms & Tools</h3>
+<h3 align="left">Platforms & Tools</h3>
 <br>
-<p align="center">
+<p align="left">
     <img alt="STM32" src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
     <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
     <img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white">
@@ -38,9 +38,9 @@
     <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
-<h3 align="center">Contact</h3>
+<h3 align="left">Contact</h3>
 <br>
-<p align="center">
+<p align="left">
     <a href="https://github.com/OxWANTBEER" style="text-decoration: none;">
         <img alt="GitHub" src="https://img.shields.io/badge/OxWANTBEER-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
@@ -52,7 +52,7 @@
     </a>
 </p>
 <br>
-<p align="center">
+<p align="left">
     <samp>───── ⋆ ★ ⋆ ─────</samp>
     <br>
     <samp>Thanks for stopping by. May your code compile on the first try.</samp>
